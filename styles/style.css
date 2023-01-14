@@ -193,13 +193,12 @@ font-size: 18px;
     justify-content: center;
     align-items: center;
 }
-.-footer-logo{
+.footer-logo{
     font-size: 24px;
 }
 .copyright{
     font-size: 14px;
     margin: 10px 0px;
-}
 }
 .social-icons{
     display: flex;
@@ -210,9 +209,6 @@ font-size: 18px;
 }
 
 /* responsive CSS start */
- vc footer{
-    display: none !important;
-}
 
 @media only screen and (max-width:576px) {
     .nav-container{
